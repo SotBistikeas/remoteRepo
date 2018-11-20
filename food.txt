@@ -1,9 +1,6 @@
-<<<<<<< HEAD
+
 foods
 
 Pizza
-apple
 
-=======
-foods
->>>>>>> parent of 1b6fd96... added
+apple
