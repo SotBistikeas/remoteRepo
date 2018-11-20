@@ -2,8 +2,11 @@
 foods
 
 Pizza
+<<<<<<< HEAD
 apple
 
 =======
 foods
 >>>>>>> parent of 1b6fd96... added
+=======
+>>>>>>> parent of 27ed761... no
